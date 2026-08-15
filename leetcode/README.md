@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 28 | 3 | 0 |
+| 32 | 29 | 3 | 0 |
 
 ## Activity
 
@@ -22,28 +22,28 @@ Contains topicwise list of solved problems.
 | 2026-08-12 | 3 |
 | 2026-08-13 | 1 |
 | 2026-08-14 | 3 |
-| 2026-08-15 | 14 |
+| 2026-08-15 | 15 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 65% |
-| String | 12 | 39% |
-| Two Pointers | 11 | 35% |
-| Hash Table | 10 | 32% |
+| Array | 21 | 66% |
+| String | 12 | 38% |
+| Two Pointers | 11 | 34% |
+| Hash Table | 10 | 31% |
 | Sorting | 5 | 16% |
 | Binary Search | 4 | 13% |
-| Bit Manipulation | 3 | 10% |
+| Bit Manipulation | 3 | 9% |
+| Math | 3 | 9% |
 | Counting | 2 | 6% |
-| Math | 2 | 6% |
 | Prefix Sum | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 22 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
