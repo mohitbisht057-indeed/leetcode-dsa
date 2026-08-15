@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-15T15:02:45.404Z",
+  "updatedAt": "2026-08-15T15:03:38.659Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,6 +83,26 @@
           "path": "leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "04898bafb1d6c72fa105a89a6fd33e6714387f9b",
           "lastSyncedAt": "2026-08-15T14:32:22.203Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leetcode/0088-merge-sorted-array/",
+      "readmePath": "leetcode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0088-merge-sorted-array.cpp",
+          "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
+          "sha": "779c608ef627ca7e5b11990b93bd399f42a7cbc9",
+          "lastSyncedAt": "2026-08-15T15:03:38.659Z"
         }
       ]
     },
