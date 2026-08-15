@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-08-15T14:09:56.947Z",
+  "problems": [
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "leetcode/0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "leetcode/0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
+          "path": "leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
+          "sha": "32434684fd76a82fe5c0fec2d7b609d95f68e7d7",
+          "lastSyncedAt": "2026-08-15T14:09:56.947Z"
+        }
+      ]
+    }
+  ]
+}
