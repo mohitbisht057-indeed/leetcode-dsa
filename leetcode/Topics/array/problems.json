@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T16:27:11.778Z",
+  "updatedAt": "2026-08-15T16:27:17.806Z",
   "problems": [
     {
       "frontendId": "1",
@@ -102,7 +102,7 @@
           "filename": "0027-remove-element.cpp",
           "path": "leetcode/0027-remove-element/0027-remove-element.cpp",
           "sha": "28ff2653b6f3a6618aafc82a0dad3b23e2493dfe",
-          "lastSyncedAt": "2026-08-15T15:02:45.404Z"
+          "lastSyncedAt": "2026-08-15T16:27:17.806Z"
         }
       ]
     },
