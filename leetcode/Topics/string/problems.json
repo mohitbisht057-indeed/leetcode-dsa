@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:10:26.118Z",
+  "updatedAt": "2026-08-15T14:10:35.318Z",
   "problems": [
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "leetcode/0290-word-pattern/",
+      "readmePath": "leetcode/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0290-word-pattern.cpp",
+          "path": "leetcode/0290-word-pattern/0290-word-pattern.cpp",
+          "sha": "8196f693c4f4b77e1e4a8d6cec8f544c32c2e613",
+          "lastSyncedAt": "2026-08-15T14:10:35.318Z"
+        }
+      ]
+    },
     {
       "frontendId": "383",
       "title": "Ransom Note",
