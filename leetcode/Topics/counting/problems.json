@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-15T14:19:06.375Z",
+  "updatedAt": "2026-08-15T14:31:30.583Z",
   "problems": [
     {
       "frontendId": "383",
@@ -22,7 +22,7 @@
           "filename": "0383-ransom-note.cpp",
           "path": "leetcode/0383-ransom-note/0383-ransom-note.cpp",
           "sha": "55ba88f331f7243db0ee15f7fa553cae9e6660f9",
-          "lastSyncedAt": "2026-08-15T14:18:45.781Z"
+          "lastSyncedAt": "2026-08-15T14:31:30.583Z"
         }
       ]
     },
