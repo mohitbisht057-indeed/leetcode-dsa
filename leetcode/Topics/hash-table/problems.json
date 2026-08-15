@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-15T14:18:57.811Z",
+  "updatedAt": "2026-08-15T14:19:01.062Z",
   "problems": [
     {
       "frontendId": "13",
@@ -42,7 +42,7 @@
           "filename": "0219-contains-duplicate-ii.cpp",
           "path": "leetcode/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "bac7150f984e0fe40f671e25b1cc46951cb91565",
-          "lastSyncedAt": "2026-08-15T14:10:40.846Z"
+          "lastSyncedAt": "2026-08-15T14:19:01.062Z"
         }
       ]
     },
