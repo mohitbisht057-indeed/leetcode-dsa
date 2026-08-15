@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:31:44.204Z",
+  "updatedAt": "2026-08-15T14:31:55.055Z",
   "problems": [
     {
       "frontendId": "13",
@@ -222,7 +222,7 @@
           "filename": "0387-first-unique-character-in-a-string.cpp",
           "path": "leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "bb9bac58f9c8539c8e6d7750b6ab2e31a96d45af",
-          "lastSyncedAt": "2026-08-15T14:19:06.375Z"
+          "lastSyncedAt": "2026-08-15T14:31:55.055Z"
         }
       ]
     },
