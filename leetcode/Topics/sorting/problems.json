@@ -4,6 +4,27 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-15T14:09:36.240Z",
-  "problems": []
+  "updatedAt": "2026-08-15T14:11:04.912Z",
+  "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "leetcode/0242-valid-anagram/",
+      "readmePath": "leetcode/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "leetcode/0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "f2c35107815c5382abe10740bb9dbe0cbac4b919",
+          "lastSyncedAt": "2026-08-15T14:11:04.912Z"
+        }
+      ]
+    }
+  ]
 }
