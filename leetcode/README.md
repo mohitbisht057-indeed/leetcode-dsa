@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 29 | 3 | 0 |
+| 33 | 29 | 4 | 0 |
 
 ## Activity
 
@@ -22,28 +22,28 @@ Contains topicwise list of solved problems.
 | 2026-08-12 | 3 |
 | 2026-08-13 | 1 |
 | 2026-08-14 | 3 |
-| 2026-08-15 | 15 |
+| 2026-08-15 | 16 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 66% |
-| String | 12 | 38% |
-| Two Pointers | 11 | 34% |
-| Hash Table | 10 | 31% |
-| Sorting | 5 | 16% |
-| Binary Search | 4 | 13% |
+| Array | 22 | 67% |
+| String | 12 | 36% |
+| Two Pointers | 11 | 33% |
+| Hash Table | 10 | 30% |
+| Sorting | 5 | 15% |
+| Binary Search | 4 | 12% |
+| Math | 4 | 12% |
 | Bit Manipulation | 3 | 9% |
-| Math | 3 | 9% |
 | Counting | 2 | 6% |
-| Prefix Sum | 2 | 6% |
+| Dynamic Programming | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -53,17 +53,20 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [divide-and-conquer](Topics/divide-and-conquer/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
+| [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
@@ -73,4 +76,5 @@ Contains topicwise list of solved problems.
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
