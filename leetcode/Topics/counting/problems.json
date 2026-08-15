@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-15T14:18:45.781Z",
+  "updatedAt": "2026-08-15T14:19:06.375Z",
   "problems": [
     {
       "frontendId": "383",
@@ -42,7 +42,7 @@
           "filename": "0387-first-unique-character-in-a-string.cpp",
           "path": "leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "bb9bac58f9c8539c8e6d7750b6ab2e31a96d45af",
-          "lastSyncedAt": "2026-08-15T14:10:47.812Z"
+          "lastSyncedAt": "2026-08-15T14:19:06.375Z"
         }
       ]
     }
