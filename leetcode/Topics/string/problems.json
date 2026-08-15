@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:17:39.596Z",
+  "updatedAt": "2026-08-15T14:17:45.782Z",
   "problems": [
     {
       "frontendId": "13",
@@ -162,7 +162,7 @@
           "filename": "0290-word-pattern.cpp",
           "path": "leetcode/0290-word-pattern/0290-word-pattern.cpp",
           "sha": "8196f693c4f4b77e1e4a8d6cec8f544c32c2e613",
-          "lastSyncedAt": "2026-08-15T14:10:35.318Z"
+          "lastSyncedAt": "2026-08-15T14:17:45.782Z"
         }
       ]
     },
