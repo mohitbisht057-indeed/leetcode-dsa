@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:11:51.514Z",
+  "updatedAt": "2026-08-15T14:12:01.238Z",
   "problems": [
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "leetcode/0013-roman-to-integer/",
+      "readmePath": "leetcode/0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0013-roman-to-integer.cpp",
+          "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.cpp",
+          "sha": "7b83397ac75df95bf1417be96a07be77e58736f9",
+          "lastSyncedAt": "2026-08-15T14:12:01.238Z"
+        }
+      ]
+    },
     {
       "frontendId": "14",
       "title": "Longest Common Prefix",
