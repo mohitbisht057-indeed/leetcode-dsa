@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T14:17:19.438Z",
+  "updatedAt": "2026-08-15T14:17:23.834Z",
   "problems": [
     {
       "frontendId": "11",
@@ -62,7 +62,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
           "path": "leetcode/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "32434684fd76a82fe5c0fec2d7b609d95f68e7d7",
-          "lastSyncedAt": "2026-08-15T14:09:56.947Z"
+          "lastSyncedAt": "2026-08-15T14:17:23.834Z"
         }
       ]
     },
