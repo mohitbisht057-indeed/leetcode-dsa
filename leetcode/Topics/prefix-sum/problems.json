@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-15T14:20:07.400Z",
+  "updatedAt": "2026-08-15T14:32:57.933Z",
   "problems": [
     {
       "frontendId": "724",
@@ -42,7 +42,7 @@
           "filename": "1480-running-sum-of-1d-array.cpp",
           "path": "leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "016eae8b130f0d98b9992e58c91609a71e20e43b",
-          "lastSyncedAt": "2026-08-15T14:19:57.991Z"
+          "lastSyncedAt": "2026-08-15T14:32:57.933Z"
         }
       ]
     }
