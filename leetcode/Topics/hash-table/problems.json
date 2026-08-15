@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-15T14:19:06.375Z",
+  "updatedAt": "2026-08-15T14:19:16.272Z",
   "problems": [
     {
       "frontendId": "13",
@@ -62,7 +62,7 @@
           "filename": "0242-valid-anagram.cpp",
           "path": "leetcode/0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "f2c35107815c5382abe10740bb9dbe0cbac4b919",
-          "lastSyncedAt": "2026-08-15T14:11:04.912Z"
+          "lastSyncedAt": "2026-08-15T14:19:16.272Z"
         }
       ]
     },
