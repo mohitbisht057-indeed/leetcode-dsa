@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:19:42.887Z",
+  "updatedAt": "2026-08-15T14:19:48.427Z",
   "problems": [
     {
       "frontendId": "13",
@@ -22,7 +22,7 @@
           "filename": "0013-roman-to-integer.cpp",
           "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "7b83397ac75df95bf1417be96a07be77e58736f9",
-          "lastSyncedAt": "2026-08-15T14:12:01.238Z"
+          "lastSyncedAt": "2026-08-15T14:19:48.427Z"
         }
       ]
     },
