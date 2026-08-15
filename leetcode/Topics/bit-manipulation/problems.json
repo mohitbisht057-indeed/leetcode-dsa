@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-15T14:31:09.038Z",
+  "updatedAt": "2026-08-15T15:04:50.663Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "leetcode/0136-single-number/",
+      "readmePath": "leetcode/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0136-single-number.cpp",
+          "path": "leetcode/0136-single-number/0136-single-number.cpp",
+          "sha": "fce125678a1f598cc320dcf215e044075b0c904a",
+          "lastSyncedAt": "2026-08-15T15:04:50.663Z"
+        }
+      ]
+    },
     {
       "frontendId": "3702",
       "title": "Longest Subsequence With Non-Zero Bitwise XOR",
