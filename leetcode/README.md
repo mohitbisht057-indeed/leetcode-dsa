@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 24 | 3 | 0 |
+| 28 | 25 | 3 | 0 |
 
 ## Activity
 
@@ -22,16 +22,16 @@ Contains topicwise list of solved problems.
 | 2026-08-12 | 3 |
 | 2026-08-13 | 1 |
 | 2026-08-14 | 3 |
-| 2026-08-15 | 10 |
+| 2026-08-15 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 59% |
-| String | 12 | 44% |
-| Two Pointers | 9 | 33% |
-| Hash Table | 8 | 30% |
+| Array | 17 | 61% |
+| String | 12 | 43% |
+| Two Pointers | 9 | 32% |
+| Hash Table | 8 | 29% |
 | Sorting | 3 | 11% |
 | Binary Search | 2 | 7% |
 | Bit Manipulation | 2 | 7% |
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 16 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -52,10 +52,11 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [divide-and-conquer](Topics/divide-and-conquer/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
