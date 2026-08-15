@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T15:08:00.945Z",
+  "updatedAt": "2026-08-15T15:08:40.153Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "leetcode/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "bac7150f984e0fe40f671e25b1cc46951cb91565",
           "lastSyncedAt": "2026-08-15T14:31:50.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "leetcode/0283-move-zeroes/",
+      "readmePath": "leetcode/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0283-move-zeroes.cpp",
+          "path": "leetcode/0283-move-zeroes/0283-move-zeroes.cpp",
+          "sha": "79e6a45f0cfe6b8b2d17235c926aeaa364c7dcae",
+          "lastSyncedAt": "2026-08-15T15:08:40.153Z"
         }
       ]
     },
