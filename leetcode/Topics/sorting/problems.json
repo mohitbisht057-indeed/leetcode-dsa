@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-15T15:03:38.659Z",
+  "updatedAt": "2026-08-15T15:08:00.945Z",
   "problems": [
     {
       "frontendId": "88",
@@ -43,6 +43,26 @@
           "path": "leetcode/0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "f2c35107815c5382abe10740bb9dbe0cbac4b919",
           "lastSyncedAt": "2026-08-15T14:32:08.573Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leetcode/0349-intersection-of-two-arrays/",
+      "readmePath": "leetcode/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "d8be0aa72860a42df61f6d8f1ac65b26150cfdf7",
+          "lastSyncedAt": "2026-08-15T15:08:00.945Z"
         }
       ]
     },
