@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T16:27:17.806Z",
+  "updatedAt": "2026-08-15T16:27:22.514Z",
   "problems": [
     {
       "frontendId": "1",
@@ -122,7 +122,7 @@
           "filename": "0035-search-insert-position.cpp",
           "path": "leetcode/0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "970f3f36043afceaa14ab13eb3b8ac34141ce83f",
-          "lastSyncedAt": "2026-08-15T14:59:10.839Z"
+          "lastSyncedAt": "2026-08-15T16:27:22.514Z"
         }
       ]
     },
