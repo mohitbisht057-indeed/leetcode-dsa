@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-15T14:19:27.444Z",
+  "updatedAt": "2026-08-15T14:20:01.742Z",
   "problems": [
     {
       "frontendId": "11",
@@ -122,7 +122,7 @@
           "filename": "0977-squares-of-a-sorted-array.cpp",
           "path": "leetcode/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.cpp",
           "sha": "2c59520d0416cf4ce583e4259f917b9a2d8d5e68",
-          "lastSyncedAt": "2026-08-15T14:12:25.405Z"
+          "lastSyncedAt": "2026-08-15T14:20:01.742Z"
         }
       ]
     }
