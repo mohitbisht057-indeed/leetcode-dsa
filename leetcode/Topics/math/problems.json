@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-15T16:29:05.636Z",
+  "updatedAt": "2026-08-15T16:38:00.989Z",
   "problems": [
     {
       "frontendId": "2",
@@ -22,7 +22,7 @@
           "filename": "0002-add-two-numbers.cpp",
           "path": "leetcode/0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "cf155dac9fb6e11c71583c1c9804742365597cab",
-          "lastSyncedAt": "2026-08-15T16:29:05.636Z"
+          "lastSyncedAt": "2026-08-15T16:38:00.989Z"
         }
       ]
     },
