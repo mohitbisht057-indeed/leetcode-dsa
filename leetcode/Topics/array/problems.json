@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T14:11:51.514Z",
+  "updatedAt": "2026-08-15T14:12:10.293Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,6 +83,26 @@
           "path": "leetcode/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "bac7150f984e0fe40f671e25b1cc46951cb91565",
           "lastSyncedAt": "2026-08-15T14:10:40.846Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "leetcode/1920-build-array-from-permutation/",
+      "readmePath": "leetcode/1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1920-build-array-from-permutation.cpp",
+          "path": "leetcode/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "sha": "49da77d6f8e3dec09c192e88c04b104c2ed6fc21",
+          "lastSyncedAt": "2026-08-15T14:12:10.293Z"
         }
       ]
     },
