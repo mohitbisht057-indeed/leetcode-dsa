@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:11:04.912Z",
+  "updatedAt": "2026-08-15T14:11:12.187Z",
   "problems": [
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "leetcode/0125-valid-palindrome/",
+      "readmePath": "leetcode/0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0125-valid-palindrome.cpp",
+          "path": "leetcode/0125-valid-palindrome/0125-valid-palindrome.cpp",
+          "sha": "962b408b8f725864c0853209d6b86d30bf9c59aa",
+          "lastSyncedAt": "2026-08-15T14:11:12.187Z"
+        }
+      ]
+    },
     {
       "frontendId": "242",
       "title": "Valid Anagram",
