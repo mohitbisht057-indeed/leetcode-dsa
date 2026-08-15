@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-15T14:09:56.947Z",
+  "updatedAt": "2026-08-15T14:10:06.233Z",
   "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "leetcode/0011-container-with-most-water/",
+      "readmePath": "leetcode/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0011-container-with-most-water.cpp",
+          "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "sha": "23e375a82aad23c53ca40a3edea130abf05e4cc4",
+          "lastSyncedAt": "2026-08-15T14:10:06.233Z"
+        }
+      ]
+    },
     {
       "frontendId": "167",
       "title": "Two Sum II - Input Array Is Sorted",
