@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-15T14:17:19.438Z",
+  "updatedAt": "2026-08-15T14:18:30.218Z",
   "problems": [
     {
       "frontendId": "3702",
@@ -22,7 +22,7 @@
           "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "path": "leetcode/3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "sha": "84cdcb12830f155183dfbb94d3e33d9f157cef31",
-          "lastSyncedAt": "2026-08-15T14:17:19.438Z"
+          "lastSyncedAt": "2026-08-15T14:18:30.218Z"
         }
       ]
     }
