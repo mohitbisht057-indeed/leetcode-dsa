@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-15T16:27:27.215Z",
+  "updatedAt": "2026-08-15T16:38:47.906Z",
   "problems": [
     {
       "frontendId": "11",
@@ -162,7 +162,7 @@
           "filename": "0283-move-zeroes.cpp",
           "path": "leetcode/0283-move-zeroes/0283-move-zeroes.cpp",
           "sha": "79e6a45f0cfe6b8b2d17235c926aeaa364c7dcae",
-          "lastSyncedAt": "2026-08-15T16:26:30.175Z"
+          "lastSyncedAt": "2026-08-15T16:38:47.906Z"
         }
       ]
     },
