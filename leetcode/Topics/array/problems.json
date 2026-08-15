@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T15:05:52.316Z",
+  "updatedAt": "2026-08-15T15:06:42.213Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "leetcode/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "bac7150f984e0fe40f671e25b1cc46951cb91565",
           "lastSyncedAt": "2026-08-15T14:31:50.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "leetcode/0485-max-consecutive-ones/",
+      "readmePath": "leetcode/0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0485-max-consecutive-ones.cpp",
+          "path": "leetcode/0485-max-consecutive-ones/0485-max-consecutive-ones.cpp",
+          "sha": "a39ce0a912e8f3a92ce23667bb49e78a328326fa",
+          "lastSyncedAt": "2026-08-15T15:06:42.213Z"
         }
       ]
     },
