@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-15T15:08:00.945Z",
+  "updatedAt": "2026-08-15T15:09:10.655Z",
   "problems": [
     {
       "frontendId": "88",
@@ -43,6 +43,26 @@
           "path": "leetcode/0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "f2c35107815c5382abe10740bb9dbe0cbac4b919",
           "lastSyncedAt": "2026-08-15T14:32:08.573Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "leetcode/0268-missing-number/",
+      "readmePath": "leetcode/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "leetcode/0268-missing-number/0268-missing-number.cpp",
+          "sha": "81d04472aac62af9195ad8b7221c73d59d68f594",
+          "lastSyncedAt": "2026-08-15T15:09:10.655Z"
         }
       ]
     },
