@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-15T16:27:37.493Z",
+  "updatedAt": "2026-08-15T16:38:38.808Z",
   "problems": [
     {
       "frontendId": "136",
@@ -42,7 +42,7 @@
           "filename": "0268-missing-number.cpp",
           "path": "leetcode/0268-missing-number/0268-missing-number.cpp",
           "sha": "81d04472aac62af9195ad8b7221c73d59d68f594",
-          "lastSyncedAt": "2026-08-15T16:26:17.783Z"
+          "lastSyncedAt": "2026-08-15T16:38:38.808Z"
         }
       ]
     },
