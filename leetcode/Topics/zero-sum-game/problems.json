@@ -4,7 +4,7 @@
     "slug": "zero-sum-game",
     "name": "Zero-Sum Game"
   },
-  "updatedAt": "2026-08-15T16:38:11.341Z",
+  "updatedAt": "2026-08-15T16:38:30.088Z",
   "problems": [
     {
       "frontendId": "486",
@@ -42,7 +42,7 @@
           "filename": "0877-stone-game.cpp",
           "path": "leetcode/0877-stone-game/0877-stone-game.cpp",
           "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
-          "lastSyncedAt": "2026-08-15T16:26:08.242Z"
+          "lastSyncedAt": "2026-08-15T16:38:30.088Z"
         }
       ]
     }
