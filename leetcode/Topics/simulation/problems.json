@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-15T14:12:10.293Z",
+  "updatedAt": "2026-08-15T14:19:54.467Z",
   "problems": [
     {
       "frontendId": "1920",
@@ -22,7 +22,7 @@
           "filename": "1920-build-array-from-permutation.cpp",
           "path": "leetcode/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "49da77d6f8e3dec09c192e88c04b104c2ed6fc21",
-          "lastSyncedAt": "2026-08-15T14:12:10.293Z"
+          "lastSyncedAt": "2026-08-15T14:19:54.467Z"
         }
       ]
     }
