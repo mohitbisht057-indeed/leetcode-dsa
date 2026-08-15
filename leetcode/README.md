@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 20 | 3 | 0 |
+| 25 | 22 | 3 | 0 |
 
 ## Activity
 
@@ -22,28 +22,28 @@ Contains topicwise list of solved problems.
 | 2026-08-12 | 3 |
 | 2026-08-13 | 1 |
 | 2026-08-14 | 3 |
-| 2026-08-15 | 6 |
+| 2026-08-15 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 52% |
-| String | 12 | 52% |
-| Hash Table | 8 | 35% |
-| Two Pointers | 7 | 30% |
-| Binary Search | 2 | 9% |
-| Counting | 2 | 9% |
-| Prefix Sum | 2 | 9% |
-| Sliding Window | 2 | 9% |
-| Sorting | 2 | 9% |
+| Array | 14 | 56% |
+| String | 12 | 48% |
+| Two Pointers | 9 | 36% |
+| Hash Table | 8 | 32% |
+| Sorting | 3 | 12% |
+| Binary Search | 2 | 8% |
+| Counting | 2 | 8% |
+| Prefix Sum | 2 | 8% |
+| Sliding Window | 2 | 8% |
 | Bit Manipulation | 1 | 4% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 14 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -65,11 +65,11 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
