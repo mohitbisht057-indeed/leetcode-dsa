@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-15T15:14:55.564Z",
+  "updatedAt": "2026-08-15T16:25:56.368Z",
   "problems": [
     {
       "frontendId": "1",
@@ -142,7 +142,7 @@
           "filename": "0290-word-pattern.cpp",
           "path": "leetcode/0290-word-pattern/0290-word-pattern.cpp",
           "sha": "8196f693c4f4b77e1e4a8d6cec8f544c32c2e613",
-          "lastSyncedAt": "2026-08-15T15:14:55.564Z"
+          "lastSyncedAt": "2026-08-15T16:25:56.368Z"
         }
       ]
     },
