@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 26 | 3 | 0 |
+| 30 | 27 | 3 | 0 |
 
 ## Activity
 
@@ -22,17 +22,17 @@ Contains topicwise list of solved problems.
 | 2026-08-12 | 3 |
 | 2026-08-13 | 1 |
 | 2026-08-14 | 3 |
-| 2026-08-15 | 12 |
+| 2026-08-15 | 13 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 62% |
-| String | 12 | 41% |
-| Two Pointers | 10 | 34% |
-| Hash Table | 9 | 31% |
-| Sorting | 4 | 14% |
+| Array | 19 | 63% |
+| String | 12 | 40% |
+| Two Pointers | 11 | 37% |
+| Hash Table | 9 | 30% |
+| Sorting | 4 | 13% |
 | Binary Search | 3 | 10% |
 | Bit Manipulation | 2 | 7% |
 | Counting | 2 | 7% |
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 19 |
+| [Array](Topics/array/) | 20 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -71,6 +71,6 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
