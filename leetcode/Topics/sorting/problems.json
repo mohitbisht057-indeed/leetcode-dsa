@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-15T16:26:35.606Z",
+  "updatedAt": "2026-08-15T16:26:47.957Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,6 +23,26 @@
           "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "779c608ef627ca7e5b11990b93bd399f42a7cbc9",
           "lastSyncedAt": "2026-08-15T15:03:38.659Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "leetcode/0169-majority-element/0169-majority-element.cpp",
+          "sha": "782dcb08f31bbc9498ac09d3cb863a92b56d4c0f",
+          "lastSyncedAt": "2026-08-15T16:26:47.957Z"
         }
       ]
     },
