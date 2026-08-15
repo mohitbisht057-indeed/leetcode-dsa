@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-15T14:31:15.324Z",
+  "updatedAt": "2026-08-15T14:59:10.839Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "leetcode/0035-search-insert-position/",
+      "readmePath": "leetcode/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "leetcode/0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "970f3f36043afceaa14ab13eb3b8ac34141ce83f",
+          "lastSyncedAt": "2026-08-15T14:59:10.839Z"
+        }
+      ]
+    },
     {
       "frontendId": "167",
       "title": "Two Sum II - Input Array Is Sorted",
