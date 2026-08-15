@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-15T14:10:26.118Z",
+  "updatedAt": "2026-08-15T14:10:40.846Z",
   "problems": [
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "leetcode/0219-contains-duplicate-ii/",
+      "readmePath": "leetcode/0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0219-contains-duplicate-ii.cpp",
+          "path": "leetcode/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
+          "sha": "bac7150f984e0fe40f671e25b1cc46951cb91565",
+          "lastSyncedAt": "2026-08-15T14:10:40.846Z"
+        }
+      ]
+    },
     {
       "frontendId": "3090",
       "title": "Maximum Length Substring With Two Occurrences",
