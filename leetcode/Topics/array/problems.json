@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T16:26:02.627Z",
+  "updatedAt": "2026-08-15T16:26:08.242Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,6 +383,26 @@
           "path": "leetcode/0724-find-pivot-index/0724-find-pivot-index.cpp",
           "sha": "bf66183b04360c92a5cac28f786abdf1a3c204e1",
           "lastSyncedAt": "2026-08-15T16:25:34.882Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "leetcode/0877-stone-game/",
+      "readmePath": "leetcode/0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "leetcode/0877-stone-game/0877-stone-game.cpp",
+          "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
+          "lastSyncedAt": "2026-08-15T16:26:08.242Z"
         }
       ]
     },
