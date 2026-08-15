@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:11:41.376Z",
+  "updatedAt": "2026-08-15T14:11:51.514Z",
   "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "leetcode/0014-longest-common-prefix/",
+      "readmePath": "leetcode/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0014-longest-common-prefix.cpp",
+          "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
+          "sha": "6403d173d9d792a7814c7b37068e2682699e78c9",
+          "lastSyncedAt": "2026-08-15T14:11:51.514Z"
+        }
+      ]
+    },
     {
       "frontendId": "20",
       "title": "Valid Parentheses",
