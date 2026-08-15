@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-15T16:26:17.783Z",
+  "updatedAt": "2026-08-15T16:27:01.734Z",
   "problems": [
     {
       "frontendId": "136",
@@ -22,7 +22,7 @@
           "filename": "0136-single-number.cpp",
           "path": "leetcode/0136-single-number/0136-single-number.cpp",
           "sha": "fce125678a1f598cc320dcf215e044075b0c904a",
-          "lastSyncedAt": "2026-08-15T15:04:50.663Z"
+          "lastSyncedAt": "2026-08-15T16:27:01.734Z"
         }
       ]
     },
