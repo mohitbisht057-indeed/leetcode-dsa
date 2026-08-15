@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T14:12:25.405Z",
+  "updatedAt": "2026-08-15T14:12:33.705Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,6 +83,26 @@
           "path": "leetcode/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "bac7150f984e0fe40f671e25b1cc46951cb91565",
           "lastSyncedAt": "2026-08-15T14:10:40.846Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "leetcode/0724-find-pivot-index/",
+      "readmePath": "leetcode/0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0724-find-pivot-index.cpp",
+          "path": "leetcode/0724-find-pivot-index/0724-find-pivot-index.cpp",
+          "sha": "bf66183b04360c92a5cac28f786abdf1a3c204e1",
+          "lastSyncedAt": "2026-08-15T14:12:33.705Z"
         }
       ]
     },
