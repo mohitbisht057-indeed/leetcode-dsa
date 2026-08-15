@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T15:09:10.655Z",
+  "updatedAt": "2026-08-15T15:10:05.832Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,6 +123,26 @@
           "path": "leetcode/0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "970f3f36043afceaa14ab13eb3b8ac34141ce83f",
           "lastSyncedAt": "2026-08-15T14:59:10.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "leetcode/0066-plus-one/",
+      "readmePath": "leetcode/0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "leetcode/0066-plus-one/0066-plus-one.cpp",
+          "sha": "0ec8a1f5ece8a5eb606cbb4c3a26bd4a71d896bb",
+          "lastSyncedAt": "2026-08-15T15:10:05.832Z"
         }
       ]
     },
