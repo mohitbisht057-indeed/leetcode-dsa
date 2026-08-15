@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-15T14:09:36.240Z",
-  "problems": []
+  "updatedAt": "2026-08-15T14:10:15.188Z",
+  "problems": [
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetcode/0383-ransom-note/",
+      "readmePath": "leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0383-ransom-note.cpp",
+          "path": "leetcode/0383-ransom-note/0383-ransom-note.cpp",
+          "sha": "55ba88f331f7243db0ee15f7fa553cae9e6660f9",
+          "lastSyncedAt": "2026-08-15T14:10:15.188Z"
+        }
+      ]
+    }
+  ]
 }
