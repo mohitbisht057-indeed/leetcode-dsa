@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 22 | 3 | 0 |
+| 27 | 24 | 3 | 0 |
 
 ## Activity
 
@@ -22,37 +22,37 @@ Contains topicwise list of solved problems.
 | 2026-08-12 | 3 |
 | 2026-08-13 | 1 |
 | 2026-08-14 | 3 |
-| 2026-08-15 | 8 |
+| 2026-08-15 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 56% |
-| String | 12 | 48% |
-| Two Pointers | 9 | 36% |
-| Hash Table | 8 | 32% |
-| Sorting | 3 | 12% |
-| Binary Search | 2 | 8% |
-| Counting | 2 | 8% |
-| Prefix Sum | 2 | 8% |
-| Sliding Window | 2 | 8% |
-| Bit Manipulation | 1 | 4% |
+| Array | 16 | 59% |
+| String | 12 | 44% |
+| Two Pointers | 9 | 33% |
+| Hash Table | 8 | 30% |
+| Sorting | 3 | 11% |
+| Binary Search | 2 | 7% |
+| Bit Manipulation | 2 | 7% |
+| Counting | 2 | 7% |
+| Prefix Sum | 2 | 7% |
+| Sliding Window | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 16 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 8 |
