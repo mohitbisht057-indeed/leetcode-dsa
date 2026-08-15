@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-15T14:11:12.187Z",
+  "updatedAt": "2026-08-15T14:11:18.743Z",
   "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "leetcode/0058-length-of-last-word/",
+      "readmePath": "leetcode/0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0058-length-of-last-word.cpp",
+          "path": "leetcode/0058-length-of-last-word/0058-length-of-last-word.cpp",
+          "sha": "4e6c294f0ee8734eddb6b11e8c642b77175df513",
+          "lastSyncedAt": "2026-08-15T14:11:18.743Z"
+        }
+      ]
+    },
     {
       "frontendId": "125",
       "title": "Valid Palindrome",
