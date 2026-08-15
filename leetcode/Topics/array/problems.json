@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T16:39:16.273Z",
+  "updatedAt": "2026-08-15T16:39:20.022Z",
   "problems": [
     {
       "frontendId": "1",
@@ -162,7 +162,7 @@
           "filename": "0088-merge-sorted-array.cpp",
           "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "779c608ef627ca7e5b11990b93bd399f42a7cbc9",
-          "lastSyncedAt": "2026-08-15T16:27:11.778Z"
+          "lastSyncedAt": "2026-08-15T16:39:20.022Z"
         }
       ]
     },
