@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T16:26:35.606Z",
+  "updatedAt": "2026-08-15T16:26:44.628Z",
   "problems": [
     {
       "frontendId": "1",
@@ -342,7 +342,7 @@
           "filename": "0485-max-consecutive-ones.cpp",
           "path": "leetcode/0485-max-consecutive-ones/0485-max-consecutive-ones.cpp",
           "sha": "a39ce0a912e8f3a92ce23667bb49e78a328326fa",
-          "lastSyncedAt": "2026-08-15T15:06:42.213Z"
+          "lastSyncedAt": "2026-08-15T16:26:44.628Z"
         }
       ]
     },
