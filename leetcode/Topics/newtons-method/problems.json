@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "newtons-method",
+    "name": "Newton's Method"
+  },
+  "updatedAt": "2026-08-16T14:07:05.673Z",
+  "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leetcode/0069-sqrtx/",
+      "readmePath": "leetcode/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "leetcode/0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "1e3ae8c4ba508355719ff33aca980bfdcaccd4bb",
+          "lastSyncedAt": "2026-08-16T14:07:05.673Z"
+        }
+      ]
+    }
+  ]
+}
