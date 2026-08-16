@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-15T16:38:38.808Z",
+  "updatedAt": "2026-08-16T14:07:05.673Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +63,26 @@
           "path": "leetcode/0066-plus-one/0066-plus-one.cpp",
           "sha": "0ec8a1f5ece8a5eb606cbb4c3a26bd4a71d896bb",
           "lastSyncedAt": "2026-08-15T16:38:26.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leetcode/0069-sqrtx/",
+      "readmePath": "leetcode/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "leetcode/0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "1e3ae8c4ba508355719ff33aca980bfdcaccd4bb",
+          "lastSyncedAt": "2026-08-16T14:07:05.673Z"
         }
       ]
     },
