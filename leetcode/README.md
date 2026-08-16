@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 16 | 4 | 0 |
+| 21 | 16 | 5 | 0 |
 
 ## Activity
 
@@ -16,28 +16,28 @@ Contains topicwise list of solved problems.
 | Date | Problems |
 | --- | ---: |
 | 2026-08-15 | 19 |
-| 2026-08-16 | 1 |
+| 2026-08-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 85% |
-| Math | 6 | 30% |
-| Hash Table | 5 | 25% |
-| Two Pointers | 5 | 25% |
-| Binary Search | 4 | 20% |
-| Sorting | 4 | 20% |
-| Bit Manipulation | 3 | 15% |
-| Dynamic Programming | 3 | 15% |
-| Game Theory | 2 | 10% |
-| Minimax | 2 | 10% |
+| Array | 18 | 86% |
+| Math | 7 | 33% |
+| Hash Table | 5 | 24% |
+| Two Pointers | 5 | 24% |
+| Binary Search | 4 | 19% |
+| Sorting | 4 | 19% |
+| Bit Manipulation | 3 | 14% |
+| Dynamic Programming | 3 | 14% |
+| Game Theory | 3 | 14% |
+| Minimax | 3 | 14% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
 | [Binary Search](Topics/binary-search/) | 5 |
@@ -49,26 +49,27 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/Bracket Sequences/) | 0 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Counting](Topics/counting/) | 3 |
+| [Counting](Topics/counting/) | 4 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Game Theory](Topics/Game Theory/) | 0 |
-| [Game Theory](Topics/game-theory/) | 2 |
+| [Game Theory](Topics/game-theory/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/Hash Table/) | 0 |
 | [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
-| [Minimax](Topics/minimax-algorithm/) | 2 |
+| [Minimax](Topics/minimax-algorithm/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
+| [Nim Game](Topics/nim-game/) | 1 |
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
@@ -87,5 +88,5 @@ Contains topicwise list of solved problems.
 | [Z Algorithm](Topics/Z Algorithm/) | 0 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/Zero-Sum Game/) | 0 |
-| [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
 <!---LeetHub Summary End-->
