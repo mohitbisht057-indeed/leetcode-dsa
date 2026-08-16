@@ -5,32 +5,33 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 15 | 4 | 0 |
+| 20 | 16 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 2 days | 2 days | 2 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-15 | 19 |
+| 2026-08-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 89% |
-| Hash Table | 5 | 26% |
-| Math | 5 | 26% |
-| Two Pointers | 5 | 26% |
-| Sorting | 4 | 21% |
-| Binary Search | 3 | 16% |
-| Bit Manipulation | 3 | 16% |
-| Dynamic Programming | 3 | 16% |
-| Game Theory | 2 | 11% |
-| Minimax | 2 | 11% |
+| Array | 17 | 85% |
+| Math | 6 | 30% |
+| Hash Table | 5 | 25% |
+| Two Pointers | 5 | 25% |
+| Binary Search | 4 | 20% |
+| Sorting | 4 | 20% |
+| Bit Manipulation | 3 | 15% |
+| Dynamic Programming | 3 | 15% |
+| Game Theory | 2 | 10% |
+| Minimax | 2 | 10% |
 
 ## Topics
 
@@ -39,7 +40,7 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/Bit Manipulation/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
@@ -63,10 +64,11 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
+| [Newton's Method](Topics/newtons-method/) | 1 |
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
