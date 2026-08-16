@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-15T14:31:21.976Z",
+  "updatedAt": "2026-08-16T14:28:29.731Z",
   "problems": [
     {
       "frontendId": "11",
@@ -23,6 +23,26 @@
           "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.cpp",
           "sha": "23e375a82aad23c53ca40a3edea130abf05e4cc4",
           "lastSyncedAt": "2026-08-15T14:31:21.976Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "leetcode/2029-stone-game-ix/",
+      "readmePath": "leetcode/2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "leetcode/2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "692bea3649f7e38f1474ddc55015ab925687e948",
+          "lastSyncedAt": "2026-08-16T14:28:29.731Z"
         }
       ]
     }
