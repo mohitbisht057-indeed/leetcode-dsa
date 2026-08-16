@@ -1,0 +1,84 @@
+name: Organize LeetCode Topics
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  topics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Organize solutions by topic
+        run: |
+          python3 <<'PY'
+          import json
+          import shutil
+          from pathlib import Path
+
+          root = Path("leetcode")
+          topics = root / "Topics"
+
+          if not topics.exists():
+              print("Topics folder not found")
+              exit()
+
+          copied = 0
+
+          for topic_dir in topics.iterdir():
+              if not topic_dir.is_dir():
+                  continue
+
+              problems_file = topic_dir / "problems.json"
+
+              if not problems_file.exists():
+                  continue
+
+              try:
+                  data = json.loads(problems_file.read_text())
+              except Exception:
+                  continue
+
+              for problem in data.get("problems", []):
+                  source = problem.get("folderPath")
+
+                  if not source:
+                      continue
+
+                  source = Path(source)
+
+                  if not source.exists():
+                      continue
+
+                  destination = topic_dir / source.name
+
+                  if destination.exists():
+                      continue
+
+                  shutil.copytree(source, destination)
+                  print(f"Added: {source} -> {destination}")
+                  copied += 1
+
+          print(f"Topic folders added: {copied}")
+          PY
+
+      - name: Commit topic folders
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add leetcode/Topics
+
+          if git diff --cached --quiet; then
+            echo "No topic changes"
+          else
+            git commit -m "Auto-organize LeetCode solutions by topic"
+            git push
+          fi
