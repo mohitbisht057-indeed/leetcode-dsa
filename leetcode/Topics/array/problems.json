@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T14:55:32.805Z",
+  "updatedAt": "2026-08-16T14:58:35.514Z",
   "problems": [
     {
       "frontendId": "1",
@@ -382,7 +382,7 @@
           "filename": "0704-binary-search.cpp",
           "path": "leetcode/0704-binary-search/0704-binary-search.cpp",
           "sha": "b784343cc0d2c9c79cb413bae11785c3d24fd7ee",
-          "lastSyncedAt": "2026-08-16T14:55:32.805Z"
+          "lastSyncedAt": "2026-08-16T14:58:35.514Z"
         }
       ]
     },
