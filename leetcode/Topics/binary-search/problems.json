@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-15T16:39:28.350Z",
+  "updatedAt": "2026-08-16T14:07:05.673Z",
   "problems": [
     {
       "frontendId": "35",
@@ -23,6 +23,26 @@
           "path": "leetcode/0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "970f3f36043afceaa14ab13eb3b8ac34141ce83f",
           "lastSyncedAt": "2026-08-15T16:39:28.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leetcode/0069-sqrtx/",
+      "readmePath": "leetcode/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "leetcode/0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "1e3ae8c4ba508355719ff33aca980bfdcaccd4bb",
+          "lastSyncedAt": "2026-08-16T14:07:05.673Z"
         }
       ]
     },
