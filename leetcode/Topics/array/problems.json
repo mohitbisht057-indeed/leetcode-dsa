@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T14:58:35.514Z",
+  "updatedAt": "2026-08-17T04:49:34.981Z",
   "problems": [
     {
       "frontendId": "1",
@@ -463,6 +463,26 @@
           "path": "leetcode/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "016eae8b130f0d98b9992e58c91609a71e20e43b",
           "lastSyncedAt": "2026-08-15T14:32:57.933Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "leetcode/1563-stone-game-v/",
+      "readmePath": "leetcode/1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1563-stone-game-v.cpp",
+          "path": "leetcode/1563-stone-game-v/1563-stone-game-v.cpp",
+          "sha": "a9637cff24b3fc4467836f16b73ef0f51b1870bb",
+          "lastSyncedAt": "2026-08-17T04:49:34.981Z"
         }
       ]
     },
