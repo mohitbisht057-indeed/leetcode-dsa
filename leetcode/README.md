@@ -5,33 +5,34 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 17 | 5 | 0 |
+| 23 | 18 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 2 |
+| 3 days | 3 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-15 | 19 |
 | 2026-08-16 | 3 |
+| 2026-08-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 86% |
-| Math | 7 | 32% |
-| Binary Search | 5 | 23% |
-| Hash Table | 5 | 23% |
-| Two Pointers | 5 | 23% |
-| Sorting | 4 | 18% |
-| Bit Manipulation | 3 | 14% |
-| Dynamic Programming | 3 | 14% |
-| Game Theory | 3 | 14% |
-| Minimax | 3 | 14% |
+| Array | 19 | 83% |
+| Math | 7 | 30% |
+| Binary Search | 6 | 26% |
+| Hash Table | 5 | 22% |
+| Two Pointers | 5 | 22% |
+| Sorting | 4 | 17% |
+| Bit Manipulation | 3 | 13% |
+| Dynamic Programming | 3 | 13% |
+| Game Theory | 3 | 13% |
+| Minimax | 3 | 13% |
 
 ## Topics
 
@@ -40,7 +41,7 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/Bit Manipulation/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
@@ -61,6 +62,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/Hash Table/) | 0 |
 | [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
+| [Interactive](Topics/interactive/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
