@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 18 | 5 | 0 |
+| 24 | 18 | 5 | 1 |
 
 ## Activity
 
@@ -17,28 +17,28 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | 2026-08-15 | 19 |
 | 2026-08-16 | 3 |
-| 2026-08-17 | 1 |
+| 2026-08-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 83% |
-| Math | 7 | 30% |
-| Binary Search | 6 | 26% |
-| Hash Table | 5 | 22% |
-| Two Pointers | 5 | 22% |
+| Array | 20 | 83% |
+| Math | 8 | 33% |
+| Binary Search | 6 | 25% |
+| Hash Table | 5 | 21% |
+| Two Pointers | 5 | 21% |
+| Dynamic Programming | 4 | 17% |
+| Game Theory | 4 | 17% |
 | Sorting | 4 | 17% |
 | Bit Manipulation | 3 | 13% |
-| Dynamic Programming | 3 | 13% |
-| Game Theory | 3 | 13% |
 | Minimax | 3 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
 | [Binary Search](Topics/binary-search/) | 7 |
@@ -54,9 +54,9 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Game Theory](Topics/Game Theory/) | 0 |
-| [Game Theory](Topics/game-theory/) | 3 |
+| [Game Theory](Topics/game-theory/) | 4 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/Hash Table/) | 0 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
 | [Minimax](Topics/minimax-algorithm/) | 3 |
