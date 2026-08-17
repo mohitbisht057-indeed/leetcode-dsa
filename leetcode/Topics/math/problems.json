@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-16T14:28:29.731Z",
+  "updatedAt": "2026-08-17T04:49:34.981Z",
   "problems": [
     {
       "frontendId": "2",
@@ -143,6 +143,26 @@
           "path": "leetcode/0877-stone-game/0877-stone-game.cpp",
           "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
           "lastSyncedAt": "2026-08-15T16:38:30.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "leetcode/1563-stone-game-v/",
+      "readmePath": "leetcode/1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1563-stone-game-v.cpp",
+          "path": "leetcode/1563-stone-game-v/1563-stone-game-v.cpp",
+          "sha": "a9637cff24b3fc4467836f16b73ef0f51b1870bb",
+          "lastSyncedAt": "2026-08-17T04:49:34.981Z"
         }
       ]
     },
