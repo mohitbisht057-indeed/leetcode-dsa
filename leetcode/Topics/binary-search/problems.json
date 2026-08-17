@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-17T04:43:37.331Z",
+  "updatedAt": "2026-08-17T05:15:01.269Z",
   "problems": [
     {
       "frontendId": "35",
@@ -123,6 +123,26 @@
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "d8be0aa72860a42df61f6d8f1ac65b26150cfdf7",
           "lastSyncedAt": "2026-08-15T16:38:51.741Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "374",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "problemName": "0374-guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+      "folderPath": "leetcode/0374-guess-number-higher-or-lower/",
+      "readmePath": "leetcode/0374-guess-number-higher-or-lower/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0374-guess-number-higher-or-lower.cpp",
+          "path": "leetcode/0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.cpp",
+          "sha": "7b7e5b9520621bc180af245b89eb56cd56cbc33c",
+          "lastSyncedAt": "2026-08-17T05:15:01.269Z"
         }
       ]
     },
