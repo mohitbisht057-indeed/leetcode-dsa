@@ -5,32 +5,33 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 19 | 5 | 1 |
+| 26 | 20 | 5 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 3 |
+| 4 days | 4 days | 4 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-15 | 19 |
 | 2026-08-16 | 3 |
 | 2026-08-17 | 3 |
+| 2026-08-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 80% |
-| Math | 8 | 32% |
-| Binary Search | 7 | 28% |
-| Hash Table | 5 | 20% |
-| Two Pointers | 5 | 20% |
-| Dynamic Programming | 4 | 16% |
-| Game Theory | 4 | 16% |
-| Sorting | 4 | 16% |
+| Array | 20 | 77% |
+| Math | 8 | 31% |
+| Binary Search | 7 | 27% |
+| Hash Table | 5 | 19% |
+| Two Pointers | 5 | 19% |
+| Dynamic Programming | 4 | 15% |
+| Game Theory | 4 | 15% |
+| Sorting | 4 | 15% |
 | Bit Manipulation | 3 | 12% |
 | Minimax | 3 | 12% |
 
@@ -65,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
