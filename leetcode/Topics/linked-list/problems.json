@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-15T16:38:00.989Z",
+  "updatedAt": "2026-08-18T05:06:49.036Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "leetcode/0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "cf155dac9fb6e11c71583c1c9804742365597cab",
           "lastSyncedAt": "2026-08-15T16:38:00.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "leetcode/0021-merge-two-sorted-lists/",
+      "readmePath": "leetcode/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "0349c66b94a07927a4f7a9d4f4622c9a3a5946f0",
+          "lastSyncedAt": "2026-08-18T05:06:49.036Z"
         }
       ]
     }
