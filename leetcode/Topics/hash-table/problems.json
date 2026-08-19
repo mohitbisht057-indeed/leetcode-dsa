@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-19T14:42:05.274Z",
+  "updatedAt": "2026-08-19T14:54:38.378Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "leetcode/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "bb9bac58f9c8539c8e6d7750b6ab2e31a96d45af",
           "lastSyncedAt": "2026-08-15T14:31:55.055Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "leetcode/1386-cinema-seat-allocation/",
+      "readmePath": "leetcode/1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1386-cinema-seat-allocation.cpp",
+          "path": "leetcode/1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
+          "sha": "d63082bb85cd15c806cc72994bb6815c53e117c6",
+          "lastSyncedAt": "2026-08-19T14:54:38.378Z"
         }
       ]
     },
