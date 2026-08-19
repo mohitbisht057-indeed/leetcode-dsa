@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 20 | 5 | 1 |
+| 27 | 21 | 5 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 4 |
+| 5 days | 5 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -19,21 +19,22 @@ Contains topicwise list of solved problems.
 | 2026-08-16 | 3 |
 | 2026-08-17 | 3 |
 | 2026-08-18 | 1 |
+| 2026-08-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 77% |
-| Math | 8 | 31% |
-| Binary Search | 7 | 27% |
-| Hash Table | 5 | 19% |
-| Two Pointers | 5 | 19% |
+| Array | 20 | 74% |
+| Math | 8 | 30% |
+| Binary Search | 7 | 26% |
+| Hash Table | 6 | 22% |
+| Two Pointers | 6 | 22% |
 | Dynamic Programming | 4 | 15% |
 | Game Theory | 4 | 15% |
 | Sorting | 4 | 15% |
-| Bit Manipulation | 3 | 12% |
-| Minimax | 3 | 12% |
+| Bit Manipulation | 3 | 11% |
+| Linked List | 3 | 11% |
 
 ## Topics
 
@@ -56,17 +57,18 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Game Theory](Topics/Game Theory/) | 0 |
 | [Game Theory](Topics/game-theory/) | 4 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/Hash Table/) | 0 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
@@ -87,7 +89,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/Two Pointers/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Z Algorithm](Topics/Z Algorithm/) | 0 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/Zero-Sum Game/) | 0 |
