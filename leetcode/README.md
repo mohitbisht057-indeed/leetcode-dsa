@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 22 | 5 | 1 |
+| 29 | 22 | 6 | 1 |
 
 ## Activity
 
@@ -19,34 +19,34 @@ Contains topicwise list of solved problems.
 | 2026-08-16 | 3 |
 | 2026-08-17 | 3 |
 | 2026-08-18 | 1 |
-| 2026-08-19 | 2 |
+| 2026-08-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 71% |
-| Math | 8 | 29% |
-| Binary Search | 7 | 25% |
-| Hash Table | 7 | 25% |
-| Two Pointers | 7 | 25% |
+| Array | 21 | 72% |
+| Hash Table | 8 | 28% |
+| Math | 8 | 28% |
+| Binary Search | 7 | 24% |
+| Two Pointers | 7 | 24% |
+| Bit Manipulation | 4 | 14% |
 | Dynamic Programming | 4 | 14% |
 | Game Theory | 4 | 14% |
 | Linked List | 4 | 14% |
 | Sorting | 4 | 14% |
-| Bit Manipulation | 3 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/Bit Manipulation/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/Boyer–Moore String-Search Algorithm/) | 0 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -61,9 +61,9 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/Game Theory/) | 0 |
 | [Game Theory](Topics/game-theory/) | 4 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/Hash Table/) | 0 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap](Topics/heap/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
