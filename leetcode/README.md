@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 21 | 5 | 1 |
+| 28 | 22 | 5 | 1 |
 
 ## Activity
 
@@ -19,22 +19,22 @@ Contains topicwise list of solved problems.
 | 2026-08-16 | 3 |
 | 2026-08-17 | 3 |
 | 2026-08-18 | 1 |
-| 2026-08-19 | 1 |
+| 2026-08-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 74% |
-| Math | 8 | 30% |
-| Binary Search | 7 | 26% |
-| Hash Table | 6 | 22% |
-| Two Pointers | 6 | 22% |
-| Dynamic Programming | 4 | 15% |
-| Game Theory | 4 | 15% |
-| Sorting | 4 | 15% |
+| Array | 20 | 71% |
+| Math | 8 | 29% |
+| Binary Search | 7 | 25% |
+| Hash Table | 7 | 25% |
+| Two Pointers | 7 | 25% |
+| Dynamic Programming | 4 | 14% |
+| Game Theory | 4 | 14% |
+| Linked List | 4 | 14% |
+| Sorting | 4 | 14% |
 | Bit Manipulation | 3 | 11% |
-| Linked List | 3 | 11% |
 
 ## Topics
 
@@ -63,12 +63,12 @@ Contains topicwise list of solved problems.
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/Hash Table/) | 0 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
@@ -89,7 +89,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/Two Pointers/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 | [Z Algorithm](Topics/Z Algorithm/) | 0 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/Zero-Sum Game/) | 0 |
