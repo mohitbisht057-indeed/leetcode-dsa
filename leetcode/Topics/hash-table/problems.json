@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-15T16:39:36.049Z",
+  "updatedAt": "2026-08-19T14:26:37.291Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "7b83397ac75df95bf1417be96a07be77e58736f9",
           "lastSyncedAt": "2026-08-15T14:32:47.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "leetcode/0141-linked-list-cycle/",
+      "readmePath": "leetcode/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "leetcode/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "2f7a9482e52d86f1a23eb13987513cec416b0e16",
+          "lastSyncedAt": "2026-08-19T14:26:37.291Z"
         }
       ]
     },
