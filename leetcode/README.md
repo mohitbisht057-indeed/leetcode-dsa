@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 22 | 6 | 1 |
+| 30 | 23 | 6 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 5 |
+| 6 days | 6 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,21 +20,22 @@ Contains topicwise list of solved problems.
 | 2026-08-17 | 3 |
 | 2026-08-18 | 1 |
 | 2026-08-19 | 3 |
+| 2026-08-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 72% |
-| Hash Table | 8 | 28% |
-| Math | 8 | 28% |
-| Binary Search | 7 | 24% |
-| Two Pointers | 7 | 24% |
-| Bit Manipulation | 4 | 14% |
-| Dynamic Programming | 4 | 14% |
-| Game Theory | 4 | 14% |
-| Linked List | 4 | 14% |
-| Sorting | 4 | 14% |
+| Array | 21 | 70% |
+| Hash Table | 8 | 27% |
+| Math | 8 | 27% |
+| Binary Search | 7 | 23% |
+| Two Pointers | 7 | 23% |
+| Linked List | 5 | 17% |
+| Bit Manipulation | 4 | 13% |
+| Dynamic Programming | 4 | 13% |
+| Game Theory | 4 | 13% |
+| Sorting | 4 | 13% |
 
 ## Topics
 
@@ -68,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
@@ -78,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
