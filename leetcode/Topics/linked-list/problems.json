@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-19T14:42:05.274Z",
+  "updatedAt": "2026-08-20T13:32:35.278Z",
   "problems": [
     {
       "frontendId": "2",
@@ -82,7 +82,7 @@
           "filename": "0141-linked-list-cycle.cpp",
           "path": "leetcode/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "2f7a9482e52d86f1a23eb13987513cec416b0e16",
-          "lastSyncedAt": "2026-08-19T14:26:37.291Z"
+          "lastSyncedAt": "2026-08-20T13:32:35.278Z"
         }
       ]
     },
