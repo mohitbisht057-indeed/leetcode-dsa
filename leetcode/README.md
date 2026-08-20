@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 23 | 6 | 1 |
+| 31 | 24 | 6 | 1 |
 
 ## Activity
 
@@ -20,22 +20,22 @@ Contains topicwise list of solved problems.
 | 2026-08-17 | 3 |
 | 2026-08-18 | 1 |
 | 2026-08-19 | 3 |
-| 2026-08-20 | 1 |
+| 2026-08-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 70% |
-| Hash Table | 8 | 27% |
-| Math | 8 | 27% |
+| Array | 21 | 68% |
+| Hash Table | 8 | 26% |
+| Math | 8 | 26% |
+| Two Pointers | 8 | 26% |
 | Binary Search | 7 | 23% |
-| Two Pointers | 7 | 23% |
-| Linked List | 5 | 17% |
+| Linked List | 6 | 19% |
 | Bit Manipulation | 4 | 13% |
 | Dynamic Programming | 4 | 13% |
 | Game Theory | 4 | 13% |
-| Sorting | 4 | 13% |
+| Recursion | 4 | 13% |
 
 ## Topics
 
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/Knuth–Morris–Pratt Algorithm/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Minimax](Topics/Minimax/) | 0 |
@@ -79,18 +79,18 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 1 |
+| [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/String Matching/) | 0 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/Two Pointers/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Z Algorithm](Topics/Z Algorithm/) | 0 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/Zero-Sum Game/) | 0 |
