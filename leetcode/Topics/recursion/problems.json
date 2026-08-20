@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-20T13:53:00.757Z",
+  "updatedAt": "2026-08-20T13:53:38.917Z",
   "problems": [
     {
       "frontendId": "2",
@@ -42,7 +42,7 @@
           "filename": "0206-reverse-linked-list.cpp",
           "path": "leetcode/0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "67bdef8984fee17ef04b20e12376ddc5ece4c2c4",
-          "lastSyncedAt": "2026-08-20T13:53:00.757Z"
+          "lastSyncedAt": "2026-08-20T13:53:38.917Z"
         }
       ]
     },
