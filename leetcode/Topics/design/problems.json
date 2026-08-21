@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design"
+  },
+  "updatedAt": "2026-08-21T14:43:28.012Z",
+  "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "leetcode/0155-min-stack/",
+      "readmePath": "leetcode/0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0155-min-stack.cpp",
+          "path": "leetcode/0155-min-stack/0155-min-stack.cpp",
+          "sha": "25755cc15d2648de80a52924f3a48a6bdfe84618",
+          "lastSyncedAt": "2026-08-21T14:43:28.012Z"
+        }
+      ]
+    }
+  ]
+}
