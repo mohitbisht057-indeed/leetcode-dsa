@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 24 | 6 | 1 |
+| 32 | 24 | 7 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 6 |
+| 7 days | 7 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -21,16 +21,17 @@ Contains topicwise list of solved problems.
 | 2026-08-18 | 1 |
 | 2026-08-19 | 3 |
 | 2026-08-20 | 2 |
+| 2026-08-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 68% |
-| Hash Table | 8 | 26% |
-| Math | 8 | 26% |
-| Two Pointers | 8 | 26% |
-| Binary Search | 7 | 23% |
+| Array | 21 | 66% |
+| Hash Table | 8 | 25% |
+| Math | 8 | 25% |
+| Two Pointers | 8 | 25% |
+| Binary Search | 7 | 22% |
 | Linked List | 6 | 19% |
 | Bit Manipulation | 4 | 13% |
 | Dynamic Programming | 4 | 13% |
@@ -55,6 +56,7 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
@@ -84,7 +86,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/String Matching/) | 0 |
 | [String Matching](Topics/string-matching/) | 1 |
