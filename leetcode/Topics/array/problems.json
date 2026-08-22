@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T09:05:57.490Z",
+  "updatedAt": "2026-08-22T14:23:19.663Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,6 +383,26 @@
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.cpp",
           "sha": "51234d774f63248186c87925e9bb0f9d694905fb",
           "lastSyncedAt": "2026-08-22T09:05:57.490Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "leetcode/0682-baseball-game/",
+      "readmePath": "leetcode/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0682-baseball-game.cpp",
+          "path": "leetcode/0682-baseball-game/0682-baseball-game.cpp",
+          "sha": "60e35bc0a3720abded40a4741bda4b3b81dd6ca3",
+          "lastSyncedAt": "2026-08-22T14:23:19.663Z"
         }
       ]
     },
