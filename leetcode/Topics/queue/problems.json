@@ -4,7 +4,7 @@
     "slug": "queue",
     "name": "Queue"
   },
-  "updatedAt": "2026-08-21T15:42:54.834Z",
+  "updatedAt": "2026-08-22T08:36:59.060Z",
   "problems": [
     {
       "frontendId": "232",
@@ -22,7 +22,7 @@
           "filename": "0232-implement-queue-using-stacks.cpp",
           "path": "leetcode/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
           "sha": "ce135263cfe8a4f37fe2865b4a1d22a803ba6b02",
-          "lastSyncedAt": "2026-08-21T15:42:54.834Z"
+          "lastSyncedAt": "2026-08-22T08:36:59.060Z"
         }
       ]
     },
