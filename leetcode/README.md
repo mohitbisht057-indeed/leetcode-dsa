@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 25 | 7 | 1 |
+| 34 | 26 | 7 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 7 |
+| 8 days | 8 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,12 +22,13 @@ Contains topicwise list of solved problems.
 | 2026-08-19 | 3 |
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
+| 2026-08-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 64% |
+| Array | 22 | 65% |
 | Hash Table | 8 | 24% |
 | Math | 8 | 24% |
 | Two Pointers | 8 | 24% |
@@ -42,7 +43,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 30 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -82,11 +83,11 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 2 |
 | [Recursion](Topics/recursion/) | 4 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 4 |
+| [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/String Matching/) | 0 |
 | [String Matching](Topics/string-matching/) | 1 |
