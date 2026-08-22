@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 24 | 7 | 1 |
+| 33 | 25 | 7 | 1 |
 
 ## Activity
 
@@ -21,22 +21,22 @@ Contains topicwise list of solved problems.
 | 2026-08-18 | 1 |
 | 2026-08-19 | 3 |
 | 2026-08-20 | 2 |
-| 2026-08-21 | 1 |
+| 2026-08-21 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 66% |
-| Hash Table | 8 | 25% |
-| Math | 8 | 25% |
-| Two Pointers | 8 | 25% |
-| Binary Search | 7 | 22% |
-| Linked List | 6 | 19% |
-| Bit Manipulation | 4 | 13% |
-| Dynamic Programming | 4 | 13% |
-| Game Theory | 4 | 13% |
-| Recursion | 4 | 13% |
+| Array | 21 | 64% |
+| Hash Table | 8 | 24% |
+| Math | 8 | 24% |
+| Two Pointers | 8 | 24% |
+| Binary Search | 7 | 21% |
+| Linked List | 6 | 18% |
+| Bit Manipulation | 4 | 12% |
+| Dynamic Programming | 4 | 12% |
+| Game Theory | 4 | 12% |
+| Recursion | 4 | 12% |
 
 ## Topics
 
@@ -56,7 +56,7 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
@@ -80,13 +80,13 @@ Contains topicwise list of solved problems.
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
-| [Queue](Topics/queue/) | 1 |
+| [Queue](Topics/queue/) | 2 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 3 |
+| [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/String Matching/) | 0 |
 | [String Matching](Topics/string-matching/) | 1 |
