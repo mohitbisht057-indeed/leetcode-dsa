@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-08-23T04:35:08.696Z",
+  "updatedAt": "2026-08-23T14:26:24.893Z",
   "problems": [
     {
       "frontendId": "155",
@@ -63,6 +63,26 @@
           "path": "leetcode/0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
           "sha": "ce135263cfe8a4f37fe2865b4a1d22a803ba6b02",
           "lastSyncedAt": "2026-08-22T08:36:59.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "933",
+      "title": "Number of Recent Calls",
+      "slug": "number-of-recent-calls",
+      "problemName": "0933-number-of-recent-calls",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+      "folderPath": "leetcode/0933-number-of-recent-calls/",
+      "readmePath": "leetcode/0933-number-of-recent-calls/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0933-number-of-recent-calls.cpp",
+          "path": "leetcode/0933-number-of-recent-calls/0933-number-of-recent-calls.cpp",
+          "sha": "4f20025b4cb3db18f3eae38260815c3f1d2e412f",
+          "lastSyncedAt": "2026-08-23T14:26:24.893Z"
         }
       ]
     }
