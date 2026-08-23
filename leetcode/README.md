@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 27 | 7 | 1 |
+| 36 | 28 | 7 | 1 |
 
 ## Activity
 
@@ -23,22 +23,22 @@ Contains topicwise list of solved problems.
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
 | 2026-08-22 | 1 |
-| 2026-08-23 | 1 |
+| 2026-08-23 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 63% |
-| Hash Table | 8 | 23% |
-| Math | 8 | 23% |
-| Two Pointers | 8 | 23% |
-| Binary Search | 7 | 20% |
+| Array | 22 | 61% |
+| Hash Table | 8 | 22% |
+| Math | 8 | 22% |
+| Two Pointers | 8 | 22% |
+| Binary Search | 7 | 19% |
 | Linked List | 6 | 17% |
 | Stack | 5 | 14% |
 | Bit Manipulation | 4 | 11% |
+| Design | 4 | 11% |
 | Dynamic Programming | 4 | 11% |
-| Game Theory | 4 | 11% |
 
 ## Topics
 
@@ -57,8 +57,9 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/Bracket Sequences/) | 0 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 4 |
+| [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Design](Topics/design/) | 3 |
+| [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
@@ -82,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
-| [Queue](Topics/queue/) | 3 |
+| [Queue](Topics/queue/) | 4 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/Sliding Window/) | 0 |
