@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 26 | 7 | 1 |
+| 35 | 27 | 7 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 8 |
+| 9 days | 9 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,21 +23,22 @@ Contains topicwise list of solved problems.
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
 | 2026-08-22 | 1 |
+| 2026-08-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 65% |
-| Hash Table | 8 | 24% |
-| Math | 8 | 24% |
-| Two Pointers | 8 | 24% |
-| Binary Search | 7 | 21% |
-| Linked List | 6 | 18% |
-| Bit Manipulation | 4 | 12% |
-| Dynamic Programming | 4 | 12% |
-| Game Theory | 4 | 12% |
-| Recursion | 4 | 12% |
+| Array | 22 | 63% |
+| Hash Table | 8 | 23% |
+| Math | 8 | 23% |
+| Two Pointers | 8 | 23% |
+| Binary Search | 7 | 20% |
+| Linked List | 6 | 17% |
+| Stack | 5 | 14% |
+| Bit Manipulation | 4 | 11% |
+| Dynamic Programming | 4 | 11% |
+| Game Theory | 4 | 11% |
 
 ## Topics
 
@@ -57,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Counting](Topics/counting/) | 4 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Design](Topics/design/) | 2 |
+| [Design](Topics/design/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
@@ -81,13 +82,13 @@ Contains topicwise list of solved problems.
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Prefix Sum](Topics/Prefix Sum/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
-| [Queue](Topics/queue/) | 2 |
+| [Queue](Topics/queue/) | 3 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 5 |
+| [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/String Matching/) | 0 |
 | [String Matching](Topics/string-matching/) | 1 |
