@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 28 | 7 | 1 |
+| 37 | 29 | 7 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 9 |
+| 10 days | 10 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,18 +24,19 @@ Contains topicwise list of solved problems.
 | 2026-08-21 | 2 |
 | 2026-08-22 | 1 |
 | 2026-08-23 | 2 |
+| 2026-08-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 61% |
+| Array | 22 | 59% |
 | Hash Table | 8 | 22% |
 | Math | 8 | 22% |
 | Two Pointers | 8 | 22% |
 | Binary Search | 7 | 19% |
-| Linked List | 6 | 17% |
-| Stack | 5 | 14% |
+| Linked List | 6 | 16% |
+| Stack | 6 | 16% |
 | Bit Manipulation | 4 | 11% |
 | Design | 4 | 11% |
 | Dynamic Programming | 4 | 11% |
@@ -48,7 +49,7 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/Binary Search/) | 0 |
 | [Binary Search](Topics/binary-search/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/Bit Manipulation/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -59,6 +60,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/Dynamic Programming/) | 0 |
@@ -89,10 +91,11 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/Sliding Window/) | 0 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 6 |
-| [Stack](Topics/stack/) | 6 |
+| [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 12 |
 | [String Matching](Topics/String Matching/) | 0 |
 | [String Matching](Topics/string-matching/) | 1 |
+| [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/Two Pointers/) | 0 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
